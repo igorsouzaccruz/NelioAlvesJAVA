@@ -1,0 +1,15 @@
+{
+    "java.project.sourcePaths": ["src"],
+    "java.project.outputPath": "bin",
+    "java.project.referencedLibraries": [
+        "lib/**/*.jar",
+        "c:\\Users\\Igor Souza\\Documents\\java-libs\\javafx-sdk\\lib\\javafx.base.jar",
+        "c:\\Users\\Igor Souza\\Documents\\java-libs\\javafx-sdk\\lib\\javafx.controls.jar",
+        "c:\\Users\\Igor Souza\\Documents\\java-libs\\javafx-sdk\\lib\\javafx.fxml.jar",
+        "c:\\Users\\Igor Souza\\Documents\\java-libs\\javafx-sdk\\lib\\javafx.graphics.jar",
+        "c:\\Users\\Igor Souza\\Documents\\java-libs\\javafx-sdk\\lib\\javafx.media.jar",
+        "c:\\Users\\Igor Souza\\Documents\\java-libs\\javafx-sdk\\lib\\javafx.swing.jar",
+        "c:\\Users\\Igor Souza\\Documents\\java-libs\\javafx-sdk\\lib\\javafx.web.jar",
+        "c:\\Users\\Igor Souza\\Documents\\java-libs\\javafx-sdk\\lib\\javafx-swt.jar"
+    ]
+}
